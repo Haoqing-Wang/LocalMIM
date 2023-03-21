@@ -3,7 +3,7 @@ PyTorch implementation of
 <br>
 [**Masked Image Modeling with Local Multi-Scale Reconstruction**](https://arxiv.org/pdf/2303.05251v1.pdf)
 <br>
-CVPR 2023
+CVPR 2023 [Highlight](email.pdf) (Top 2.5%)
 
 <p align="center">
   <img src="model.png" width="1000">
