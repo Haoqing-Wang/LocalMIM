@@ -3,7 +3,7 @@ PyTorch implementation of
 <br>
 [**Masked Image Modeling with Local Multi-Scale Reconstruction**](https://arxiv.org/pdf/2303.05251v1.pdf)
 <br>
-CVPR 2023 [Highlight](email.pdf) (Top 2.5%)
+CVPR 2023 [Highlight](email.pdf) (Top 2.6%)
 
 <p align="center">
   <img src="model.png" width="1000">
@@ -28,9 +28,9 @@ If you find this project useful in your research, please consider cite:
 ```
 @inproceedings{wang2023masked,
   title={Masked Image Modeling with Local Multi-Scale Reconstruction},
-  author={Wang, Haoqing and Tang, Yehui and Han, Kai and Guo, Jianyuan and Deng, Zhi-Hong and Wang, Yunhe},
+  author={Wang, Haoqing and Tang, Yehui and Wang, Yunhe and Guo, Jianyuan and Deng, Zhi-Hong and Han, Kai},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={xxx--xxx},
+  pages={2122--2131},
   year={2023}
 }
 ```
